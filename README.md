@@ -15,6 +15,9 @@ So once we know what the world looks the next step is to augment that understand
 
 As ANoRC is a small scale project we would be using stereo camera to detect obstacles. It can easily be scaled us for industrial use with proper investments on sensors. 
 
+<p align="center">
+<img src="https://github.com/harrykarwasra/autonomous-vehicle/blob/master/images/ADAS-cars-Adobe-106263301-520x378.jpg" width="300" height="220" />
+</p>
 
 ### 3. Localization
 They use MAPS because these will help them what the world is suppose to look like. Humans can memorise easily to the routes they are familiar with because they know what to expect , where the speed changes, where do they have to take a turn or where is the intersection. So, Self Driving car uses maps that tells them where they have to look.
@@ -39,4 +42,6 @@ Check out the submodule and features of the project in breif down below:
 #### 2. Path Planning
 #### 3. 2D-LiDAR Mapping 
 #### 2. Lane Detction 
+<p align="center">
 <img src="https://github.com/harrykarwasra/autonomous-vehicle/blob/master/images/overview.gif" width="300" height="220" />
+</p>
