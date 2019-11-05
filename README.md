@@ -39,6 +39,11 @@ Check out the submodule and features of the project in breif down below:
 
 # Table of Content 
 #### 1. Traffic Light Detector/Classifier 
+
+<p align="center">
+<img src="https://github.com/harrykarwasra/autonomous-vehicle/blob/master/images/giphy-2.gif" width="300" height="220" />
+</p>
+
 #### 2. Path Planning
 #### 3. 2D-LiDAR Mapping 
 #### 2. Lane Detction 
