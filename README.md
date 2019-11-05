@@ -24,6 +24,9 @@ They use MAPS because these will help them what the world is suppose to look lik
 
 Identifying specific landmarks like poles, mailing box and measuring the car’s distance from each of the individually to estimate the car’s position.
 
+<p align="center">
+<img src="https://github.com/harrykarwasra/autonomous-vehicle/blob/master/images/overview-3.gif" width="300" height="220" />
+</p>
 
 ### 4. Path Planning
 So, once we have figures out where exactly we are int he world and what the world looks like, the next step comprises of charting a path through that world to figure out how to get to our desired destination. It is all about finding a safe and an efficient part to move through the traffic.
